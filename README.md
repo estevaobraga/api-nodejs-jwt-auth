@@ -1,10 +1,12 @@
-# Api Rest Node.js, Mongo e Autenticação JWT
+# Api Rest Node.js, MongoDB e Autenticação JWT
 
 ## Descrição
 Exemplo de Api Rest Node.js com autenticação JWT e controle de segurança nas rotas
 
 Rota: Express
+
 ODM: Mongoose
+
 Autenticação: JWT
 
 ## Instalação
