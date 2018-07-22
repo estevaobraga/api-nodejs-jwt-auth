@@ -21,9 +21,11 @@ Autenticação: JWT
 `mongod`
 
 ##### docker:
+
 baixe a imagem mongo:
 
 `docker pull mongo`
+
 Inicie um container:
 
 `docker run --name mongodocker -p 27017:27017 -d mongo`
