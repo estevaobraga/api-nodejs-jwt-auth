@@ -30,6 +30,10 @@ Inicie um container:
 
 `docker run --name mongodocker -p 27017:27017 -d mongo`
 
+##### iniciar o projeto
+
+`npm start`
+
 ## Testando
 Use [postman](https://www.getpostman.com/apps) para realizar as chamadas a API
 
